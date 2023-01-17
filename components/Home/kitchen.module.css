@@ -1,0 +1,29 @@
+.configurator{
+    background-image: url("https://media.home-design.schmidt/-/media/bynder/schmidt/2021/10/14/12/07/sch_cuisine_tavern_twist_a1_v3/16x9-sch_cuisine_tavern_twist_a1_v3.ashx");
+    color: white;
+    height: 900px;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    
+}
+.textconfigurator{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    opacity: 0.7;
+    width: 400px;
+    height: 220px;
+    padding-top: 30px;
+    margin-left: auto ;
+    margin-right: auto;
+}
+.txt{
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.logo{
+    height: 90px;
+    width: 160px;
+}

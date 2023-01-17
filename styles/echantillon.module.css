@@ -1,0 +1,29 @@
+
+@media only screen and (min-width:200px) {
+.echant{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 2450px; */
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 300px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.image{
+    width: 300px;
+    height: 300px;
+ ;
+}
+.cardtitle{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+}
