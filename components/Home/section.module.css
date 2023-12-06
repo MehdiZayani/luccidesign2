@@ -1,0 +1,807 @@
+@media only screen and (max-width:500px) {
+    .section{
+        height: 4600px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section1{
+        margin-top: 100px;
+        height: 990px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .image1 {
+        height: 500px;
+        width: 99%;
+        margin-left: auto;
+        margin-right: auto;
+        background-position: center;
+        background-image: url('http://www.cocondedecoration.com/blog/wp-content/uploads/2019/09/deco-cuisine-moderne-noir-et-bois.jpg');
+    }
+    .image2{
+        height: 332px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-image: url('https://decodesigns.fr/wp-content/uploads/2021/08/cuisine-qualite-1-768x432.jpg');
+        background-position: center;
+        border: 3px solid white;
+    }
+    .text{
+        height: 140px;
+        width: 100%;
+        text-align: center;
+    }
+    .title{
+        font-size: 35px;
+        font-weight: 350;
+
+    }
+    .para{
+        font-size: 20px;
+        font-weight: 350;
+    }
+    .btn{
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #b39573;
+        color: #b39573;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #b39573;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        margin-top: 90px;
+
+    }
+    .imgtxt{
+        color: white;
+        font-size: 19px;
+        font-weight: 350;
+    }
+    .divtxt{
+        margin-left: auto;
+        margin-right: auto;
+        width:300px;
+        padding-top:50px;
+    }
+    .imgfaza{
+        background-color: #b39573;
+        width: 300px;
+        height: 2px;
+    }
+    .section2{
+        height: 850px;
+        text-align: center;
+        margin-top: 50px;
+        width: 100%;
+
+    }
+    .sectiontitle{
+        font-size: 25px;
+        font-weight: 300;
+    }
+    .table{
+        display: flex;
+        margin-top: 30px;
+        width: 100%;
+        flex-direction: column;
+        
+        
+    }
+    .cardimg{
+        width: 98%;
+        height: 50%;
+    }
+    .cardtxt{
+        padding-top: 20px;
+        font-size: 17px;    
+        font-weight: 350;
+        line-height: 30px;
+    }
+    .card{
+        margin-top: 10px;
+        width: 100%;
+        height: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+
+    } 
+    .btn2{
+        position: relative;
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        top: 50px;
+    }
+    .btn22{
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+    } 
+}
+@media only screen and (min-width:500px) {
+    .section{
+        height: 6200px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section1{
+        margin-top: 100px;
+        height: 1050px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .image1 {
+        height: 500px;
+        width: 99%;
+        margin-left: auto;
+        margin-right: auto;
+        background-position: center;
+        background-image: url('http://www.cocondedecoration.com/blog/wp-content/uploads/2019/09/deco-cuisine-moderne-noir-et-bois.jpg');
+    }
+    .image2{
+        height: 332px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-image: url('https://decodesigns.fr/wp-content/uploads/2021/08/cuisine-qualite-1-768x432.jpg');
+        background-position: center;
+        border: 3px solid white;
+    }
+    .text{
+        height: 140px;
+        width: 100%;
+        text-align: center;
+    }
+    .title{
+        font-size: 35px;
+        font-weight: 350;
+
+    }
+    .para{
+        font-size: 20px;
+        font-weight: 350;
+    }
+    .btn{
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #b39573;
+        color: #b39573;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #b39573;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .imgtxt{
+        color: white;
+        font-size: 26px;
+        font-weight: 350;
+    }
+    .divtxt{
+        margin-left: auto;
+        margin-right: auto;
+        width:410px;
+        padding-top:50px;
+    }
+    .imgfaza{
+        background-color: #b39573;
+        width: 410px;
+        height: 2px;
+    }
+    .section2{
+        height: 1250px;
+        text-align: center;
+        margin-top: 50px;
+        width: 100%;
+
+    }
+    .sectiontitle{
+        font-size: 40px;
+        font-weight: 350;
+    }
+    .table{
+        display: flex;
+        margin-top: 30px;
+        width: 100%;
+        flex-direction: column;
+        
+        
+    }
+    .cardimg{
+        width: 98%;
+        height: 50%;
+    }
+    .cardtxt{
+        padding-top: 20px;
+        font-size: 20px;    
+        font-weight: 350;
+        line-height: 30px;
+    }
+    .card{
+        margin-top: 10px;
+        width: 100%;
+        height: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+
+    } 
+    .btn2{
+        position: relative;
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        top: 50px;
+    }
+    .btn22{
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+    } 
+}
+@media only screen and (min-width:700px) {
+    .section{
+        height: 7350px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section1{
+        margin-top: 150px;
+        height: 1150px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .image1 {
+        height: 500px;
+        width: 99%;
+        margin-left: auto;
+        margin-right: auto;
+        background-position: center;
+        background-image: url('http://www.cocondedecoration.com/blog/wp-content/uploads/2019/09/deco-cuisine-moderne-noir-et-bois.jpg');
+    }
+    .image2{
+        height: 332px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-image: url('https://decodesigns.fr/wp-content/uploads/2021/08/cuisine-qualite-1-768x432.jpg');
+        background-position: center;
+        border: 3px solid white;
+    }
+    .text{
+        height: 140px;
+        width: 100%;
+        text-align: center;
+    }
+    .title{
+        font-size: 35px;
+        font-weight: 350;
+
+    }
+    .para{
+        font-size: 20px;
+        font-weight: 350;
+    }
+    .btn{
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #b39573;
+        color: #b39573;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #b39573;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .imgtxt{
+        color: white;
+        font-size: 26px;
+        font-weight: 350;
+    }
+    .divtxt{
+        margin-left: auto;
+        margin-right: auto;
+        width:410px;
+        padding-top:50px;
+    }
+    .imgfaza{
+        background-color: #b39573;
+        width: 410px;
+        height: 2px;
+    }
+    .section2{
+        height: 1550px;
+        text-align: center;
+        margin-top: 80px;
+        width: 100%;
+
+    }
+    .sectiontitle{
+        font-size: 40px;
+        font-weight: 350;
+    }
+    .table{
+        display: flex;
+        margin-top: 30px;
+        width: 100%;
+        flex-direction: column;
+        
+        
+    }
+    .cardimg{
+        width: 98%;
+        height: 50%;
+    }
+    .cardtxt{
+        padding-top: 20px;
+        font-size: 20px;    
+        font-weight: 350;
+        line-height: 30px;
+    }
+    .card{
+        margin-top: 10px;
+        width: 100%;
+        height: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+
+    } 
+    .btn2{
+        position: relative;
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        top: 50px;
+    }
+    .btn22{
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+    } 
+}
+@media only screen and (min-width:900px) {
+    .section{
+        height: 8150px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section1{
+        margin-top: 150px;
+        height: 1150px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .image1 {
+        height: 500px;
+        width: 99%;
+        margin-left: auto;
+        margin-right: auto;
+        background-position: center;
+        background-image: url('http://www.cocondedecoration.com/blog/wp-content/uploads/2019/09/deco-cuisine-moderne-noir-et-bois.jpg');
+    }
+    .image2{
+        height: 332px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-image: url('https://decodesigns.fr/wp-content/uploads/2021/08/cuisine-qualite-1-768x432.jpg');
+        background-position: center;
+        border: 3px solid white;
+    }
+    .text{
+        height: 140px;
+        width: 100%;
+        text-align: center;
+    }
+    .title{
+        font-size: 35px;
+        font-weight: 350;
+
+    }
+    .para{
+        font-size: 20px;
+        font-weight: 350;
+    }
+    .btn{
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #b39573;
+        color: #b39573;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #b39573;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .imgtxt{
+        color: white;
+        font-size: 26px;
+        font-weight: 350;
+    }
+    .divtxt{
+        margin-left: auto;
+        margin-right: auto;
+        width:410px;
+        padding-top:50px;
+    }
+    .imgfaza{
+        background-color: #b39573;
+        width: 410px;
+        height: 2px;
+    }
+    .section2{
+        height: 1750px;
+        text-align: center;
+        margin-top: 80px;
+        width: 100%;
+
+    }
+    .sectiontitle{
+        font-size: 40px;
+        font-weight: 350;
+    }
+    .table{
+        display: flex;
+        margin-top: 30px;
+        width: 100%;
+        flex-direction: column;
+        
+        
+    }
+    .cardimg{
+        width: 98%;
+        height: 50%;
+    }
+    .cardtxt{
+        padding-top: 20px;
+        font-size: 20px;    
+        font-weight: 350;
+        line-height: 30px;
+    }
+    .card{
+        margin-top: 10px;
+        width: 100%;
+        height: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+
+    } 
+    .btn2{
+        position: relative;
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+        top: 50px;
+    }
+    .btn22{
+        margin-top: 40px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        fill: #E0DDDA;
+        color: #E0DDDA;
+        background-color: rgba(0, 0, 0, 0.99);
+        border-style: solid;
+        border-width: -1px -1px -1px -1px;
+        border-color: #D3CDC7;
+        border-radius: 0px 0px 0px 0px;
+        padding: 13px 12px 15px 21px;
+        text-decoration: none;
+    } 
+}
+
+@media only screen and (min-width:1100px) {
+   .section{
+    height: 4200px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section1{
+    margin-top: 100px;
+    height: 1400px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image1 {
+    height: 1100px !important;
+    position: relative;
+    width: 1100px !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+    background-image: url('http://www.cocondedecoration.com/blog/wp-content/uploads/2019/09/deco-cuisine-moderne-noir-et-bois.jpg');
+}
+.image2{
+    height: 332px;
+    width: 568px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('https://decodesigns.fr/wp-content/uploads/2021/08/cuisine-qualite-1-768x432.jpg');
+    background-position: center;
+    border: 3px solid white;
+    position:relative;
+    top: -100px;
+    left: 270px;
+}
+.text{
+    position: relative;
+    top:-270px;
+    height: 100px;
+    width: 500px;
+}
+.title{
+    font-size: 35px;
+    font-weight: 350;
+}
+.para{
+    font-size: 20px;
+    font-weight: 350;
+}
+.section21{
+    position: relative;
+    top: -150px;
+}
+.btn{
+    position: relative;
+    top:-205px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    fill: #b39573;
+    color: #b39573;
+    background-color: rgba(0, 0, 0, 0.99);
+    border-style: solid;
+    border-width: -1px -1px -1px -1px;
+    border-color: #b39573;
+    border-radius: 0px 0px 0px 0px;
+    padding: 13px 12px 15px 21px;
+    text-decoration: none;
+    width: 400px;
+    right: 300px;
+}
+.imgtxt{
+    color: white;
+    font-size: 50px;
+    font-weight: 350;
+}
+.divtxt{
+    margin-left: auto;
+    margin-right: auto;
+    width: 790px;
+    padding-top:100px;
+}
+.imgfaza{
+    background-color: #b39573;
+    width: 704px;
+    height: 2px;
+}
+.section2{
+    height: 600px;
+    text-align: center;
+
+}
+.sectiontitle{
+    font-size: 40px;
+    font-weight: 350;
+}
+.table{
+    display: flex;
+    margin-top: 40px;
+    flex-direction: row;
+    
+}
+.cardtxt{
+    padding-top: 20px;
+    font-size: 20px;    
+    font-weight: 350;
+}
+.card{
+    width: 100%;
+    height: 400px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+    margin: 5px;
+} 
+.btn2{
+    margin-top: 40px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    fill: #E0DDDA;
+    color: #E0DDDA;
+    background-color: rgba(0, 0, 0, 0.99);
+    border-style: solid;
+    border-width: -1px -1px -1px -1px;
+    border-color: #D3CDC7;
+    border-radius: 0px 0px 0px 0px;
+    padding: 13px 12px 15px 21px;
+    text-decoration: none;
+}
+.cardimg{
+    width: 99%;
+    height: 80%;
+}
+.btn22{
+    margin-top: 100px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    fill: #E0DDDA;
+    color: #E0DDDA;
+    background-color: rgba(0, 0, 0, 0.99);
+    border-style: solid;
+    border-width: -1px -1px -1px -1px;
+    border-color: #D3CDC7;
+    border-radius: 0px 0px 0px 0px;
+    padding: 13px 12px 15px 21px;
+    text-decoration: none;
+} 
+}

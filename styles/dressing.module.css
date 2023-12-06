@@ -1,0 +1,303 @@
+
+@media only screen and (max-width:600px) {
+    .title{
+     font-size: 34px;
+     font-weight: 450;
+     margin-top: 30px;
+ }
+ .dressing{
+     width: 81% ;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     height: 4700px;
+ }
+ .txt{
+     width: 100%;
+     text-align: left;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     line-height: 25px;
+ }
+ .section1{
+     display: flex;
+     margin-top: 100px;
+     width: 100%;
+     flex-direction: column;
+ }
+ .img{
+     width: 100%;
+     height: 100%;
+ }
+ .cardtitle{
+     font-size: 18px;
+     font-weight: 600;
+ }
+ .cardpara{
+     margin-top: 20px;
+     font-size: 15px;
+     font-weight: 350;
+     text-align: left;
+     line-height: 25px;
+ }
+ .card2{
+     margin-left: 10px;
+     width: 100%;
+ }
+ .card1{
+     margin-right: 10px;
+     width: 100%;
+ } 
+ }
+ @media only screen and (min-width:600px) {
+    .title{
+     font-size: 44px;
+     font-weight: 450;
+ }
+ .dressing{
+     width: 81% ;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     height: 5000px;
+ }
+ .txt{
+     width: 100%;
+     text-align: left;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     line-height: 25px;
+ }
+ .section1{
+     display: flex;
+     margin-top: 100px;
+     width: 100%;
+     flex-direction: column;
+ }
+ .img{
+     width: 100%;
+     height: 100%;
+ }
+ .cardtitle{
+     font-size: 18px;
+     font-weight: 600;
+ }
+ .cardpara{
+     margin-top: 20px;
+     font-size: 15px;
+     font-weight: 350;
+     text-align: left;
+     line-height: 25px;
+ }
+ .card2{
+     margin-left: 10px;
+     width: 100%;
+ }
+ .card1{
+     margin-right: 10px;
+     width: 100%;
+ } 
+ }
+ 
+ @media only screen and (min-width:700px) {
+    .title{
+     font-size: 44px;
+     font-weight: 450;
+ }
+ .dressing{
+     width: 81% ;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     height: 5500px;
+ }
+ .txt{
+     width: 100%;
+     text-align: left;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     line-height: 25px;
+ }
+ .section1{
+     display: flex;
+     margin-top: 100px;
+     width: 100%;
+     flex-direction: column;
+ }
+ .img{
+     width: 100%;
+     height: 100%;
+ }
+ .cardtitle{
+     font-size: 18px;
+     font-weight: 600;
+ }
+ .cardpara{
+     margin-top: 20px;
+     font-size: 15px;
+     font-weight: 350;
+     text-align: left;
+     line-height: 25px;
+ }
+ .card2{
+     margin-left: 10px;
+     width: 100%;
+ }
+ .card1{
+     margin-right: 10px;
+     width: 100%;
+ } 
+ }
+ @media only screen and (min-width:900px) {
+    .title{
+     font-size: 44px;
+     font-weight: 450;
+ }
+ .dressing{
+     width: 81% ;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     height: 5500px;
+ }
+ .txt{
+     width: 100%;
+     text-align: left;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     line-height: 25px;
+ }
+ .section1{
+     display: flex;
+     margin-top: 100px;
+     width: 100%;
+     flex-direction: column;
+ }
+ .img{
+     width: 100%;
+     height: 100%;
+ }
+ .cardtitle{
+     font-size: 18px;
+     font-weight: 600;
+ }
+ .cardpara{
+     margin-top: 20px;
+     font-size: 15px;
+     font-weight: 350;
+     text-align: left;
+     line-height: 25px;
+ }
+ .card2{
+     margin-left: 10px;
+     width: 100%;
+ }
+ .card1{
+     margin-right: 10px;
+     width: 100%;
+ } 
+ }
+ @media only screen and (min-width:1000px) {
+    .title{
+     font-size: 44px;
+     font-weight: 450;
+ }
+ .dressing{
+     width: 81% ;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     height: 6200px;
+ }
+ .txt{
+     width: 100%;
+     text-align: left;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     line-height: 25px;
+ }
+ .section1{
+     display: flex;
+     margin-top: 100px;
+     width: 100%;
+     flex-direction: column;
+ }
+ .img{
+     width: 100%;
+     height: 100%;
+ }
+ .cardtitle{
+     font-size: 18px;
+     font-weight: 600;
+ }
+ .cardpara{
+     margin-top: 20px;
+     font-size: 15px;
+     font-weight: 350;
+     text-align: left;
+     line-height: 25px;
+ }
+ .card2{
+     margin-left: 10px;
+     width: 100%;
+ }
+ .card1{
+     margin-right: 10px;
+     width: 100%;
+ } 
+ }
+@media only screen and (min-width:1100px) {
+    .title{
+        font-size: 44px;
+        font-weight: 450;
+    }
+    .dressing{
+        width: 61% ;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 3800px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        line-height: 25px;
+    }
+    .section1{
+        display: flex;
+        margin-top: 100px;
+        width: 100%;
+        flex-direction: row;
+    }
+    .img{
+        width: 100%;
+        height: 100%;
+    }
+    .cardtitle{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .cardpara{
+        margin-top: 20px;
+        font-size: 19px;
+        font-weight: 350;
+        text-align: left;
+        line-height: 40px;
+    }
+    .card2{
+        margin-left: 10px;
+        width: 100%;
+    }
+    .card1{
+        margin-right: 10px;
+        width: 100%;
+    }
+}
