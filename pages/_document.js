@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import Logo from "../images/website/logo lucci carre.jpg"
 export default function Document() {
   return (
     <Html lang="fr">
