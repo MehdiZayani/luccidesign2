@@ -1,11 +1,18 @@
 import styles from '../styles/contact.module.css'
 import Link from 'next/link'
 import Head from 'next/head'
+import Logo from "../images/website/logo lucci carre.jpg"
 export default function contact() {
     return(
         <>
         <Head>
             <title>Contact</title>
+            <meta property="og:title" content="Contact Lucci Design" />
+            <meta property="og:description" content="Contactez-nous pour plus d'informations" />
+            <meta property="og:image" content={logo} />
+            <meta property="og:url" content="https://luccidesign.tn/contact" />
+            <meta property="og:type" content="website" />
+            <meta property="og:site_name" content="Lucci Design" />
         </Head>
             <div className={styles.propos}>
             <div className={styles.table}>
