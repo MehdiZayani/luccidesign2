@@ -21,7 +21,7 @@ export default function section() {
             <div className={styles.section1}>
                 <div className={styles.image1}>
                     <div className={styles.divtxt}>
-                        <a className={styles.imgtxt}>DES CUISINES HAUT DE GAMME</a>
+                        <h2 className={styles.imgtxt}>DES CUISINES HAUT DE GAMME</h2>
                         <div className={styles.imgfaza}></div>
                     </div>
                 </div>
@@ -36,56 +36,56 @@ export default function section() {
             </div>
             <div className={styles.section21}>
             <div className={styles.section2}>
-                <a className={styles.sectiontitle}>Nos solutions de rangements</a>
+                <h3 className={styles.sectiontitle}>Nos solutions de rangements</h3>
                 <div className={styles.table}>
                     <div className={styles.card} data-aos="fade-right"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section21} width={450}/>
+                        <Image className={styles.cardimg} src={section21} width={450} alt='Nos solutions de rangements'/>
                         <a className={styles.cardtxt}>Optimisez votre espace en créant des rangements correspondants exactement à vos besoins.</a>
                     </div>
                     <div className={styles.card} data-aos="fade-left"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section22}width={450}/>
+                        <Image className={styles.cardimg} src={section22}width={450} alt='Nos solutions de rangements'/>
                         <a className={styles.cardtxt}>Les rangements sur-mesure vous permettent de concevoir des espaces uniques avec un vaste panel de possibilités.</a>
                     </div>
                 </div>
                 <Link href="dressing" className={styles.btn2} data-aos="zoom-out"data-aos-duration="3000">VOIR LES MODÈLES</Link>
             </div>
             <div className={styles.section2}>
-                <a className={styles.sectiontitle}>Nos meubles de salles de bains</a>
+                <h3 className={styles.sectiontitle}>Nos meubles de salles de bains</h3>
                 <div className={styles.table}>
                     <div className={styles.card} data-aos="fade-right"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section31} width={450}/>
+                        <Image className={styles.cardimg} src={section31} width={450} alt='Nos meubles de salles de bains'/>
                         <a className={styles.cardtxt}>Pour votre salle de bain, différents styles, coloris et matériaux s'offrent à vous.</a>
                     </div>
                     <div className={styles.card} data-aos="fade-left"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section32}width={450}/>
+                        <Image className={styles.cardimg} src={section32}width={450} alt='Nos meubles de salles de bains'/>
                         <a className={styles.cardtxt}>Moderne, contemporain, scandinave ? Optez pour le style que vous préférez.</a>
                     </div>
                 </div>
                 <Link href="sallesdebain" className={styles.btn2} data-aos="zoom-out"data-aos-duration="3000">VOIR LES MODÈLES</Link>
             </div>
             <div className={styles.section2}>
-                <a className={styles.sectiontitle}>Nos séparations de pièces</a>
+                <h3 className={styles.sectiontitle}>Nos séparations de pièces</h3>
                 <div className={styles.table}>
                     <div className={styles.card} data-aos="fade-right"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section41} width={450} height={300}/>
+                        <Image className={styles.cardimg} src={section41} width={450} height={300} alt='Nos séparations de pièces'/>
                         <a className={styles.cardtxt}>Des verrières totalement adaptées à vos besoins et aux mesures de votre logement.</a>
                     </div>
                     <div className={styles.card} data-aos="fade-left"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section42}width={450}height={300}/>
+                        <Image className={styles.cardimg} src={section42}width={450}height={300} alt='Nos séparations de pièces'/>
                         <a className={styles.cardtxt}>Décidez de la mise en forme, du nombre de vitrines c'est à vous de choisir !</a>
                     </div>
                 </div>
                 <Link href="separation" className={styles.btn2} data-aos="zoom-out"data-aos-duration="3000">VOIR LES MODÈLES</Link>
             </div>
             <div className={styles.section2}>
-                <a className={styles.sectiontitle}>Nos accessoires</a>
+                <h3 className={styles.sectiontitle}>Nos accessoires</h3>
                 <div className={styles.table}>
                     <div className={styles.card} data-aos="fade-right"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section51} width={450}/>
+                        <Image className={styles.cardimg} src={section51} width={450} alt='accessoires'/>
                         <a className={styles.cardtxt}>Des systèmes et solutions fonctionnelles mises à votre disposition afin d'améliorer vos espaces.</a>
                     </div>
                     <div className={styles.card} data-aos="fade-left"data-aos-duration="3000">
-                        <Image className={styles.cardimg} src={section52}width={450}/>
+                        <Image className={styles.cardimg} src={section52}width={450} alt='accessoires'/>
                         <a className={styles.cardtxt}>Nos accessoires vous permettent de jouir d'un intérieur unique et pratique.</a>
                     </div>
                 </div>

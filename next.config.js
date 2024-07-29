@@ -9,6 +9,11 @@ const nextConfig = {
       },
     ],
   },
+  sitemap: {
+    path: '/sitemap.xml',
+    hostname: 'https://luccidesign.tn',
+    cacheTime: 600000, // 10 minutes
+  },
 }
 
 module.exports = nextConfig

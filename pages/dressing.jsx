@@ -26,7 +26,7 @@ export default function dressing() {
                 </div>
                 <div className={styles.section1}>
                     <div className={styles.card1}>                   
-                        <Image src={dressing1} className={styles.img}/>
+                        <Image src={dressing1} className={styles.img} alt="Dressing"/>
                     </div>
                     <div className={styles.card2}>
                         <p className={styles.cardtitle}>Le dressing en I</p>
@@ -39,12 +39,12 @@ export default function dressing() {
                             <p className={styles.cardpara}>Le dressing en U lui est destiné au personnes qui disposent d’un espace un peu plus grand. Il prend trois murs et forme un U, comme son nom l’indique. Spacieux, celui-ci vous permettra de ranger tout ce que vous avez envie. Il peut également être composé d’autant de penderies ou tiroirs que vous le souhaitez. Privilégiez l’espace du haut pour les objets que vous n’utilisez pas quotidiennement.</p>
                         </div>
                         <div className={styles.card2}>                   
-                            <Image src={dressing2} className={styles.img}/>
+                            <Image src={dressing2} className={styles.img} alt="Dressing"/>
                         </div>
                     </div>
                     <div className={styles.section1}>
                         <div className={styles.card1}>                   
-                            <Image src={dressing3} className={styles.img}/>
+                            <Image src={dressing3} className={styles.img} alt="Dressing"/>
                         </div>
                         <div className={styles.card2}>
                             <p className={styles.cardtitle}>Le dressing en L</p>
@@ -57,12 +57,12 @@ export default function dressing() {
                             <p className={styles.cardpara}>Pour tout types de dressing, vous avez la possibilité d’optez pour un dressing avec portes ou d’un dressing sans portes. Les portes peuvent être coulissantes, pliantes ou alors battantes. Les portes coulissantes sont généralement les plus designs.</p>
                         </div>
                         <div className={styles.card2}>                   
-                            <Image src={dressing4} className={styles.img}/>
+                            <Image src={dressing4} className={styles.img} alt="Dressing"/>
                         </div>
                     </div>
                     <div className={styles.section1}>
                         <div className={styles.card1}>                   
-                            <Image src={dressing5} className={styles.img}/>
+                            <Image src={dressing5} className={styles.img} alt="Dressing"/>
                         </div>
                         <div className={styles.card2}>
                             <p className={styles.cardtitle}>Le séparateur de pièce</p>
@@ -75,12 +75,12 @@ export default function dressing() {
                             <p className={styles.cardpara}>La pièce dédiée est une pièce exclusivement réservé à l’aménagement d’un dressing. Cette pièce peut être aménagée d’un dressing qui prend l’ensemble des murs, de dressing en U, en L ou encore en I (en fonction des préférences). Elle peut y comporter des meubles à chaussures, différents placards pour vos vêtements et de multiples aménagements.</p>
                         </div>
                         <div className={styles.card2}>                   
-                            <Image src={dressing6} className={styles.img}/>
+                            <Image src={dressing6} className={styles.img} alt="Dressing"/>
                         </div>
                     </div>
                     <div className={styles.section1}>
                         <div className={styles.card1}>                   
-                            <Image src={dressing7} className={styles.img}/>
+                            <Image src={dressing7} className={styles.img} alt="Dressing"/>
                         </div>
                         <div className={styles.card2}>
                             <p className={styles.cardtitle}>Les espaces de rangements</p>

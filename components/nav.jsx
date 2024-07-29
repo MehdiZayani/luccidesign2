@@ -91,7 +91,7 @@ export default () => {
       { title: "Cuisine", path: "/cuisine" },
       { title: "Dressing", path: "/dressing" },
       { title: "Portes", path: "/portes" },
-      { title: "Meuble", path: "/contact" },
+      { title: "Meuble", path: "/sallesdebain" },
       { title: "Réalisation", path: "/gallerie" },
       { title: "Échantillon", path: "/echantillon" }
   ]

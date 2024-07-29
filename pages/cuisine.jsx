@@ -56,7 +56,7 @@ export default function kitchen(params) {
                         </ControlledZoom>
                         </div>
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine2} className={styles.card2}/>
+                            <Image src={cuisine2} className={styles.card2} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Céleste</h2>
                             <p className={styles.cardpara}>La cuisine Céleste est une cuisine contemporaine. Distinguée, elle met en avant un design raffiné en alliant divers matériaux naturels tels que la pierre et le bois. </p>
 
@@ -65,7 +65,7 @@ export default function kitchen(params) {
                     </div>
                     <div className="flex-col-reverse flex lg:flex-row">
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-right"data-aos-duration="3000">
-                            <Image src={cuisine3} className={styles.card3}/>
+                            <Image src={cuisine3} className={styles.card3} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Eden</h2>
                             <p className={styles.cardpara}>Eden est une cuisine multi-style au design gracieux, soigné et distingué. Elle se fond aussi bien au sein d’un intérieur moderne, qu’au sein d’un intérieur contemporain ou même industriel. </p>
                             <p className={styles.cardpara}>Ses façades laquées brillantes sur leurs 6 côtés sont d’une épaisseur de 22mm. </p>
@@ -73,15 +73,15 @@ export default function kitchen(params) {
                             <p className={styles.cardpara}>Multi-facette, Eden se décline en de multiple coloris en passant d’une palette de couleurs neutres telles que le blanc, beige, crème, gris, marron, noir, à une palette de couleurs beaucoup plus vives telles que différentes teintes de rouge, vert ou encore de bleu.</p>
                         </div>
                         <div className="py-3 lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine4} className={styles.card4}/>
+                            <Image src={cuisine4} className={styles.card4} alt='Cuisine'/>
                         </div>
                     </div>
                     <div className="lg:flex lg:flex-row">
                         <div className="py-3 lg:flex-1" data-aos="fade-right"data-aos-duration="3000">
-                            <Image src={cuisine5} className={styles.card1}/>
+                            <Image src={cuisine5} className={styles.card1} alt='Cuisine'/>
                         </div>
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine6} className={styles.card2}/>
+                            <Image src={cuisine6} className={styles.card2} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Emilia</h2>
                             <p className={styles.cardpara}>La cuisine Emilia est une cuisine moderne au style simple, épuré, et minimaliste.</p>
                             <p className={styles.cardpara}>Ses façades sont couvertes des deux côtés d’une feuille mélaminé ainsi que d’un chant ABS ton sur ton. L’épaisseur de celles-ci est de 20mm.</p>
@@ -91,7 +91,7 @@ export default function kitchen(params) {
                     </div>
                     <div className="flex-col-reverse flex lg:flex-row">
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-right"data-aos-duration="3000">
-                            <Image src={cuisine7} className={styles.card3}/>
+                            <Image src={cuisine7} className={styles.card3} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Costa</h2>
                             <p className={styles.cardpara}>Costa arbore un design se fondant entre le traditionnel japonais et le contemporain. Grâce à ses finitions en bois naturel, celle-ci dégage une esthétique chaleureuse. </p>
                             <p className={styles.cardpara}>Ses portes sont réalisées avec une finition en bois naturel de chêne, de noyer ou de frêne plaqué et vernie. De plus, les façades de celles-ci font 22mm d’épaisseur. </p>
@@ -99,15 +99,15 @@ export default function kitchen(params) {
                             <p className={styles.cardpara}>Les différents types de bois naturel qui s’offrent à vous se déclinent en différents types de teintes allant du bois très clair au bois foncé.</p>
                         </div>
                         <div className="py-3 lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine8} className={styles.card4}/>
+                            <Image src={cuisine8} className={styles.card4} alt='Cuisine'/>
                         </div>
                     </div>
                     <div className="lg:flex lg:flex-row">
                         <div className="py-3 lg:flex-1" data-aos="fade-right"data-aos-duration="3000">
-                            <Image src={cuisine9} className={styles.card1}/>
+                            <Image src={cuisine9} className={styles.card1} alt='Cuisine'/>
                         </div>
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine10} className={styles.card2}/>
+                            <Image src={cuisine10} className={styles.card2} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Carra</h2>
                             <p className={styles.cardpara}>La cuisine Carra adopte un design japonais ainsi que contemporain. Son bois naturel lisse apporte à la cuisine un caractère brut. </p>
                             <p className={styles.cardpara}>Ses portes sont réalisées avec un verre d’une épaisseur de 4mm, soutenues par un cadre en aluminium d’une épaisseur de 18mm (façades de 22mm au total).</p>
@@ -117,14 +117,14 @@ export default function kitchen(params) {
                     </div>
                     <div className="flex-col-reverse flex lg:flex-row">
                         <div className="py-3 lg:flex lg:flex-col lg:flex-1" data-aos="fade-right"data-aos-duration="3000">
-                            <Image src={cuisine11} className={styles.card3}/>
+                            <Image src={cuisine11} className={styles.card3} alt='Cuisine'/>
                             <h2 className={styles.cardtitle}>Divine</h2>
                             <p className={styles.cardpara}>Divine est une cuisine au design moderne. Sophistiquée, elle revête une esthétique élégante, raffinée et noble. </p>
                             <p className={styles.cardpara}>Concernant ses portes, elles ont de faibles émissions de formaldéhyde et elles sont laquées sur ses 6 faces. Ses façades dont l’épaisseur est de 22mm comportent toutes un fraisage horizontal placé à 4cm du bord supérieur. Plusieurs types d’ouvertures s’offrent à vous dont des gorges et des poignées élégantes.</p>
                             <p className={styles.cardpara}>Las façades de la cuisine ici vert émeraude sont disponibles en de multiples coloris dont : différentes teintes de beige et de blanc, différentes déclinaisons de vert, du gris foncé comme clair, du rouge, du bleu ou encore du noir. </p>
                         </div>
                         <div className="py-3 lg:flex-1" data-aos="fade-left"data-aos-duration="3000">
-                            <Image src={cuisine12} className={styles.card4}/>
+                            <Image src={cuisine12} className={styles.card4} alt='Cuisine'/>
                         </div>
                     </div>
                 </div>
