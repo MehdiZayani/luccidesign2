@@ -1,7 +1,6 @@
 import styles from '../styles/contact.module.css'
 import Link from 'next/link'
 import Head from 'next/head'
-import Logo from "../images/website/logo lucci carre.jpg"
 export default function contact() {
     return(
         <>
