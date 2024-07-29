@@ -9,7 +9,7 @@ export default function contact() {
             <title>Contact</title>
             <meta property="og:title" content="Contact Lucci Design" />
             <meta property="og:description" content="Contactez-nous pour plus d'informations" />
-            <meta property="og:image" content={logo} />
+            <meta property="og:image" content="https://i.ibb.co/xq0yHHJ/logo-lucci-carre.jpg" />
             <meta property="og:url" content="https://luccidesign.tn/contact" />
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="Lucci Design" />
