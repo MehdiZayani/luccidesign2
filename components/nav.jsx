@@ -92,7 +92,7 @@ export default () => {
       { title: "Dressing", path: "/dressing" },
       { title: "Portes", path: "/portes" },
       { title: "Meuble", path: "/sallesdebain" },
-      { title: "Réalisation", path: "/gallerie" },
+      { title: "Réalisation", path: "/realisation" },
       { title: "Échantillon", path: "/echantillon" }
   ]
 
