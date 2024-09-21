@@ -1,0 +1,13 @@
+.main{
+    height: 300px;
+    text-align: center;
+    margin-top: 250px;
+}
+.maintitle{
+    font-size: 30px;
+}
+.mainlink{
+    text-decoration: none;
+    color: black;
+
+}

@@ -1,0 +1,122 @@
+@media only screen and (max-width:600px) {
+    .propos{
+    width: 82%;
+    height: 1330px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.table{
+    text-align: left;
+    display: flex;
+    margin-top: 80px;
+    line-height: 30px;
+    font-size: 17px;
+    flex-direction: column;
+}
+.table1{
+    width: 100%;
+
+}
+.table2{
+    margin-top: 30px;
+    width: 100%;
+
+}
+.title{
+    font-size: 40px;
+    font-weight: 250;
+}
+}
+@media only screen and (min-width:600px) {
+    .propos{
+    width: 82%;
+    height: 1030px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.table{
+    text-align: left;
+    display: flex;
+    margin-top: 80px;
+    line-height: 30px;
+    font-size: 17px;
+    flex-direction: column;
+}
+.table1{
+    width: 100%;
+}
+.table2{
+    margin-top: 30px;
+    width: 100%;
+}
+.title{
+    font-size: 40px;
+    font-weight: 250;
+}
+}
+@media only screen and (min-width:800px) {
+    .propos{
+    width: 82%;
+    height: 930px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.table{
+    text-align: left;
+    display: flex;
+    margin-top: 80px;
+    line-height: 30px;
+    font-size: 17px;
+    flex-direction: column;
+}
+.table1{
+    width: 100%;
+}
+.table2{
+    margin-top: 30px;
+    width: 100%;
+}
+.title{
+    font-size: 50px;
+    font-weight: 250;
+}
+}
+
+
+@media only screen and (min-width:1000px) {
+    .propos{
+    width: 62%;
+    height: 730px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.table{
+    text-align: left;
+    display: flex;
+    margin-top: 90px;
+    line-height: 30px;
+    font-size: 17px;
+    flex-direction: row;
+}
+.table1{
+    width: 50%;
+    margin-right: 5px;
+    margin-top: 32px;
+}
+.table2{
+    width: 50%;
+    margin-left: 5px;
+}
+.title{
+    font-size: 50px;
+    font-weight: 250;
+}
+}

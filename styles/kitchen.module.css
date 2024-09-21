@@ -1,0 +1,1083 @@
+/* @media only screen and (max-width:300px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 8650px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 10px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 1440px;
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+    .model11{
+        margin-top: 30px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 1340px;
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 7550px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 250px;
+        height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 15px;
+        width: 250px;
+        height: 430px;
+        margin-bottom: 180px;
+
+    }
+    .card6{
+        margin-top: 15px;
+        width: 250px;
+        height: 430px;
+        margin-bottom: 120px;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 250px;
+        height: 350px;
+        margin-top: 300px;
+    }
+    .card3{
+
+        width: 250px;
+        height: 350px;
+        margin-bottom: 20px;
+    }
+    .card33{
+        width: 100%;
+        height: 50%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:300px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 8800px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+        margin-bottom: 300px;
+    }
+    .model1{
+        margin-top: -300px !important;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 3040px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .model11{
+        margin-top: -250px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2440px;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+    }
+    .model12{
+        margin-top: 270px;
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        height: 3040px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 8250px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 330px;
+        height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        width: 330px;
+        height: 500px;
+        margin-top: 20px;
+    }
+    .card6{
+        width: 330px;
+        height: 500px;
+        margin-top: 20px;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 330px;
+        height: 500px;
+        position: relative;
+        top: -420px;
+    }
+    .card3{
+        width: 330px;
+        height: 500px;
+        top: -400px;
+        position: relative;
+    }
+    .card33{
+        width: 100%;
+        height: 50%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:500px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 9400px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 50px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2740px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 7550px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 150px;
+
+    }
+    .card6{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 80px;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 150px;
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
+    }
+    .card33{
+        width: 100%;
+        height: 50%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:600px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 10000px;
+        text-decoration: none;
+        margin-top: 50px;
+
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 50px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 1640px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 750px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 150px;
+
+    }
+    .card6{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 80px;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 140px;
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
+    }
+    .card33{
+        width: 100%;
+        height: 50%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:700px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 11000px;
+        text-decoration: none;
+        margin-top: 50px;
+
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 50px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 1640px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 750px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 150px;
+
+    }
+    .card6{
+        margin-top: 15px;
+        width: 100%;
+        height: 50%;
+        margin-bottom: 80px;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 140px;
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
+    }
+    .card33{
+        width: 100%;
+        height: 50%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:800px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 11530px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 60px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .model12{
+        margin-top: 50px;
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 1000px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .card6{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 20px;
+
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+    }
+    .card33{
+        width: 100%;
+        height: 60%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:900px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 11030px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+        margin-bottom: 400px;
+    }
+    .model1{
+        margin-top: -360px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .model12{
+        margin-top: 360px;
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .model11{
+        margin-top: -360px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 1200px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .card6{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 20px;
+
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+    }
+    .card33{
+        width: 100%;
+        height: 60%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media only screen and (min-width:1000px) {
+    .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    }
+    .kitchen{
+        width: 81%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 13030px;
+        text-decoration: none;
+        margin-top: 50px;
+    }
+    .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    .model1{
+        margin-top: 60px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .model11{
+        margin-top: 60px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 2040px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 1000px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card12{
+        width: 100%;
+        height: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card1{
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card2{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .card6{
+        margin-top: 10px;
+        width: 100%;
+        height: 50%;
+
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 23px;
+        font-size: 17px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+        margin-top: 20px;
+
+    }
+    .card3{
+
+        width: 100%;
+        height: 100%;
+    }
+    .card33{
+        width: 100%;
+        height: 60%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    }
+} */
+
+@media only screen and (min-width:1200px) {
+    /* .title{
+        font-size: 40px;
+        font-weight: 350;
+        text-decoration: none;
+    } */
+    /* .kitchen{
+        width: 61%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 6000px;
+        text-decoration: none;
+        margin-top: 50px;
+    } */
+    /* .txt{
+        width: 100%;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-decoration: none;
+        margin-bottom: 350px;
+    } */
+    /* .model1{
+        margin-top: -250px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        height: 800px;
+    }
+    .model12{
+        margin-top: 500px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        height: 800px;
+    }
+    .model11{
+        margin-top: -250px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        height: 800px;
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        height: 800px;
+    
+    }
+    .card11{
+        width: 100%;
+        height: 100%;
+    }
+    .card12{
+        width: 100%;
+        height: 100%;
+    }
+    .card1{
+        padding-right: 5px;
+        width: 100%;
+        height: 100%;
+    }
+    .card2{
+        width: 100%;
+        height: 50%;
+        padding-left: 10px;
+    }
+    .card6{
+        width: 100%;
+        height: 50%;
+        padding-left: 10px;
+    }
+    .cardtitle{
+        margin-top: 10px;
+        color: #525050;
+        font-family: "Catamaran", Sans-serif;
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .cardpara{
+        text-align: left;
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        line-height: 26px;
+    }
+    .card4{
+        width: 100%;
+        height: 100%;
+    
+        padding-left: 5px;
+    }
+    .card3{
+        width: 100%;
+        height: 50%;
+        padding-right: 10px;
+    }
+    .card33{
+        width: 100%;
+        height: 100%;
+    }
+    .card44{
+        width: 100%;
+        height: 100%;
+    } */
+}
+.cardtitle{
+    margin-top: 10px;
+    color: #525050;
+    font-family: "Catamaran", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+.cardpara{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    line-height: 26px;
+}
+@media only screen and (min-width:1024px) {
+.card4{
+    padding-left: 15px;
+}
+.card3{
+    padding-right: 15px;
+}
+.card1{
+    padding-right: 15px;
+
+}
+.card2{
+    padding-left: 15px;
+}
+}
