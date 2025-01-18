@@ -10,16 +10,23 @@
   },
   "dependencies": {
     "@next/font": "13.1.1",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@radix-ui/react-tabs": "^1.1.2",
     "aos": "^2.3.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "jquery": "^3.6.3",
     "lightbox.js-react": "^0.6.4",
+    "lucide-react": "^0.473.0",
     "medium-zoom": "^1.0.8",
     "next": "^14.2.13",
     "next-sitemap": "^4.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-medium-image-zoom": "^5.1.8",
-    "react-slideshow-image": "^4.1.1"
+    "react-slideshow-image": "^4.1.1",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "22.0.0",
